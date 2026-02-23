@@ -1,0 +1,5 @@
+*.bak
+*.lck
+*.pretty/
+*.kicad_pcb
+.DS_Store
