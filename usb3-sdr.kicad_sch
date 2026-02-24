@@ -1905,7 +1905,7 @@
 		)
 		(uuid "549db13e-2da5-4397-b88f-4a06cf2d6fb6")
 	)
-	(text "*note read operations are prohibited as the SPI bridge IC is not open drain"
+	(text "*note read operations from the ADC are prohibited as the SPI bridge IC is not open drain"
 		(exclude_from_sim no)
 		(at 155.956 31.75 0)
 		(effects

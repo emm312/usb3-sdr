@@ -3,3 +3,4 @@
 *.pretty/
 *.kicad_pcb
 .DS_Store
+*.zip
