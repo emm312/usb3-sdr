@@ -2611,6 +2611,16 @@
 		)
 		(uuid "5bdbad4e-4f5f-4b96-b0d7-2d73e35cf2ab")
 	)
+	(wire
+		(pts
+			(xy 139.7 64.77) (xy 149.86 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c0b45d4-6ba9-4a85-bf13-623aa2bc8d14")
+	)
 	(bus
 		(pts
 			(xy 100.33 176.53) (xy 107.95 176.53)
@@ -2943,6 +2953,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 67.31) (xy 149.86 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4c24172-176c-4220-b526-823efa1e0c49")
+	)
+	(wire
+		(pts
 			(xy 40.64 107.95) (xy 53.34 107.95)
 		)
 		(stroke
@@ -3120,6 +3140,16 @@
 			(type default)
 		)
 		(uuid "bcabc741-54f1-4298-a38b-ceb3875a6138")
+	)
+	(wire
+		(pts
+			(xy 139.7 59.69) (xy 149.86 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdff1314-0126-4884-bfe1-dade0960e377")
 	)
 	(bus
 		(pts
@@ -3371,6 +3401,16 @@
 		)
 		(uuid "ec7f1af3-e432-4943-a5e0-e027914d8fe5")
 	)
+	(wire
+		(pts
+			(xy 139.7 62.23) (xy 149.86 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eeac2743-7866-4536-8254-6bfea1af6a6d")
+	)
 	(bus
 		(pts
 			(xy 100.33 170.18) (xy 100.33 163.83)
@@ -3562,12 +3602,12 @@
 		(uuid "1e5d992f-d71c-471a-b05f-27b8d3b9c806")
 	)
 	(label "SCLK"
-		(at 139.7 62.23 180)
+		(at 139.7 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "26ddb143-72ad-49ed-a474-ca10d5edd805")
 	)
@@ -3662,12 +3702,12 @@
 		(uuid "a1ecdb82-3bfb-4d69-93d9-30bb8c827537")
 	)
 	(label "PGA_~{CS}"
-		(at 139.7 59.69 180)
+		(at 139.7 59.69 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "c24def7b-2540-49f1-8867-c735df6fc3a3")
 	)
