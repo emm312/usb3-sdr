@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "60d3e904-5fc2-4f50-abe9-9b6154baa7fa")
+	(paper "A4")
+	(title_block
+		(title "Analog Frontend")
+		(date "2026-02-19")
+		(rev "1")
+		(company "Emmanuel Koutsouklakis")
+	)
+	(lib_symbols)
+)
